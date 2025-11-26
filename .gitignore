@@ -1,0 +1,5 @@
+backend/node_modules
+backend/uploads
+backend/backend
+mobile/build
+.DS_Store
